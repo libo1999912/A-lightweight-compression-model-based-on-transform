@@ -67,4 +67,13 @@ test_period_name: 测试数据集文件
 python lightweight_model.py
 
 # 运行结果示例
+predicted_image_epoch_200:
 ![predicted_image_epoch_200](https://github.com/user-attachments/assets/02cfeb73-6461-472c-8b83-fa27699746de)
+
+metrics_plot_epoch_200:
+![metrics_plot_epoch_200](https://github.com/user-attachments/assets/2b32a883-2f89-484f-a2e7-636e07374e66)
+
+rmse_plot_epoch_200:
+![rmse_plot_epoch_200](https://github.com/user-attachments/assets/4118e220-b727-4e0f-9d9b-505e40913f4c)
+
+
